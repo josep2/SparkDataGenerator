@@ -11,6 +11,6 @@ Too often sharing a demo in Apache Spark is a pain because generating convincing
 
 [Jowanza Joseph](http://www.jowanza.com)
 
-### Liscence
+### License
 
 MIT
