@@ -1,4 +1,4 @@
-![image](https://github.com/josep2/SparkDataGenerator/blob/master/data_generator_logo_small.png?raw=true)
+![image](http://i.imgur.com/vrNth3I.png)
 # Spark Data Generator
 A Fake Data Generator For Apache Spark.
 
