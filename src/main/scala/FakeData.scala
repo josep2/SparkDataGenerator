@@ -4,10 +4,10 @@ object FakeData extends RandomDataGenerator {
 
   case class Jowanza(name: String, sign: String)
 
-  val wanzi: Jowanza = random[Jowanza]
+  val wanzi: Seq[Jowanza] = random[Jowanza](100)
 
   def main(args: Array[String]): Unit = {
-    print(wanzi)
+    wanzi.foreach(println)
   }
 
 }
